@@ -1,4 +1,4 @@
-var exec = require("child_process"),exec;
+var exec = require("child_process").exec;
 
 function start(response) {
     console.log("Request handler start was called");
